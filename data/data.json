@@ -208,8 +208,9 @@
       "from":"Richard Brinsley Sheridan"
    },
    {  
-      "text":"I cannot give you the formula for success, but I can give you the formula for failure",
-      "from":"which is: Try to please everybody."
+      "text":"I cannot give you the formula for success, but I can give you the formula for failure,which is: Try to please everybody.",
+   
+      "from":"Unknown"
    },
    {  
       "text":"Careful thinking and hard work will solve nearly all your problems. Try and see for yourself.",
@@ -288,8 +289,8 @@
       "from":"Nolan Bushnell, entrepreneur."
    },
    {  
-      "text":"Never give in",
-      "from":"never, never, never, never, in nothing great or small, large or petty, never give in except to convictions of honour and good sense. Never yield to force; never yield to the apparently overwhelming might of the enemy. - Winston Churchill, British Prime Minister."
+      "text":"Never give in never, never, never, never, in nothing great or small, large or petty, never give in except to convictions of honour and good sense. Never yield to force; never yield to the apparently overwhelming might of the enemy.",
+      "from":"Winston Churchill, British Prime Minister."
    },
    {  
       "text":"Your most unhappy customers are your greatest source of learning.",
@@ -297,11 +298,11 @@
    },
    {  
       "text":"I have not failed. I’ve just found 10,000 ways that won’t work.",
-      "from":"Thomas Edison, inventor."
+      "from":"Thomas Edison, Inventor of the light bulb."
    },
    {  
       "text":"Entrepreneurship is neither a science nor an art. It is a practice.",
-      "from":"Peter Drucker, management consultant, educator, and author."
+      "from":"Peter Drucker, management consultant, educator and author."
    },
    {  
       "text":"In the modern world of business, it is useless to be a creative, original thinker unless you can also sell what you create.",
@@ -372,7 +373,7 @@
       "from":"Ted Nicolas"
    },
    {  
-      "text":"Be nice to geek’s, you’ll probably end up working for one",
+      "text":"Be nice to geeks, you’ll probably end up working for one",
       "from":"Bill Gates"
    },
    {  
@@ -408,8 +409,8 @@
       "from":"Mark Twain"
    },
    {  
-      "text":"There is only one success",
-      "from":"to be able to spend your life in your own way"
+      "text":"There is only one success, to be able to spend your life in your own way",
+      "from":""
    },
    {  
       "text":"You don’t buy a nice car and get rich you get rich and buy a nice car",
@@ -872,16 +873,16 @@
       "from":"I”m a business, man.”"
    },
    {  
-      "text":"If plan ‘A’ fails",
-      "from":"remember you have 25 letters left.”"
+      "text":"If plan ‘A’ fails, remember you have 25 letters left.",
+      "from":"Unknown"
    },
    {  
       "text":"We make a living by what we get. But we make a life by what we give.",
       "from":"Winston Churchhill"
    },
    {  
-      "text":"Believe that you will succeed",
-      "from":"and you will.”"
+      "text":"Believe that you will succeed, and you will.",
+      "from":"Unknown"
    },
    {  
       "text":"Victory comes only after many struggles and countless defeats.",
@@ -948,8 +949,8 @@
       "from":"Tony Robbins"
    },
    {  
-      "text":"If you don’t have a competitive advantage",
-      "from":"don’t compete.”"
+      "text":"If you don’t have a competitive advantagedon’t compete.",
+      "from":"Unknown"
    },
    {  
       "text":"You were born to win, but to be a winner, you must plan to win, prepare to win, and expect to win.",
@@ -960,8 +961,8 @@
       "from":"Mario Andretti"
    },
    {  
-      "text":"Don’t be trapped by dogma",
-      "from":"which is living with the results of other people’s thinking.”"
+      "text":"Don’t be trapped by dogma which is living with the results of other people’s thinking.",
+      "from":"Unknown"
    },
    {  
       "text":"Do or do not. There is no try.",
@@ -1044,8 +1045,8 @@
       "from":"Drew Houston, founder of Dropbox"
    },
    {  
-      "text":"Your time is limited, so don’t waste it living someone else’s life. Don’t be trapped by dogma",
-      "from":"which is living with the results of other people’s thinking. Don’t let the noise of other’s opinions drown out your own inner voice. And most important, have the courage to follow your heart and intuition. They somehow already know what you truly want to become. Everything else is secondary.”"
+      "text":"Your time is limited, so don’t waste it living someone else’s life. Don’t be trapped by dogma which is living with the results of other people’s thinking. Don’t let the noise of other’s opinions drown out your own inner voice. And most important, have the courage to follow your heart and intuition. They somehow already know what you truly want to become. Everything else is secondary.",
+      "from":"Unknown"
    },
    {  
       "text":"Don’t be cocky. Don’t be flashy. There’s always someone better than you.",
@@ -1168,7 +1169,7 @@
       "from":"Noah Everett, founder of Twitpic"
    },
    {  
-      "text":"the entrepreneur always searches for change, responds to it, and exploits it as an opportunity.",
+      "text":"The entrepreneur always searches for change, responds to it, and exploits it as an opportunity.",
       "from":"Peter F. Drucker, educator and author"
    },
    {  
